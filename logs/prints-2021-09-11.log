@@ -1,0 +1,8 @@
+17:38:32.517 [TestNG] INFO  resources.base - Navigation Bar is displayed
+17:38:33.530 [TestNG] INFO  resources.base - Restrcited User
+17:38:35.777 [TestNG] INFO  resources.base - Non restricted user
+17:39:05.494 [TestNG] INFO  resources.base - Driver is initialized
+17:39:09.091 [TestNG] INFO  resources.base - Navigated to Home page
+17:39:09.223 [TestNG] INFO  resources.base - Navigation Bar is displayed
+17:39:11.638 [TestNG] INFO  resources.base - Restrcited User
+17:39:13.903 [TestNG] INFO  resources.base - Non restricted user
